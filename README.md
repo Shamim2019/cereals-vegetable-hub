@@ -2,7 +2,7 @@
 
    ## AUTHOR : SHAMIM MALOBA
    
-   ## DESCRIPTION : This Cereals-vegetable-hub is at the cener of a plant-based lifestyle with a short collection of common images to describe the hub.
+   ## DESCRIPTION : This Cereals-vegetable-hub is at the center of a plant-based lifestyle with a short collection of common images to describe the hub.
    
    ## LANGUAGES USED : CSS and HTML
    
