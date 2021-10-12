@@ -40,7 +40,9 @@ nav li {
 }
 .mybody{
   background-color: #E47E1B;
-  height: 400px;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
 }
 #text{
   text-align: center;
@@ -50,4 +52,24 @@ nav li {
   margin-left: 100px;
   padding-top: 70px;
   color: white;
+  
+}
+
+#main{
+  height: 500px;
+  width: 1000px;
+  background-image: url("https://cdn.pixabay.com/photo/2018/06/10/17/39/market-3466906_960_720.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+}
+#rectangle{
+  height: 50px;
+  width: 350px;
+  background-color: grey;
+  border-radius: 30px;
+}
+ 
+#rectangle p{
+  text-align: center;
 }
