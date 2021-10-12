@@ -79,3 +79,30 @@ nav li {
   font-weight: 800;
   font-size: xx-large;
 }
+#rectangle2 {
+  height: 50px;
+  width: 300px;
+  background-color:#e47e1b;
+  border-radius: 30px;
+  margin-left: 200px;
+  align-items: center;
+}
+#rectangle2 p{
+  color: white;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 10px;
+}
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+#rectangle2 a {
+  text-decoration: none;
+  color: white;
+} 
