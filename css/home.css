@@ -35,7 +35,7 @@ nav li {
   font-size: larger;
  }
  li a {
-   color: black;
+   color:#191970;
    text-decoration: none;
 }
 .mybody{
@@ -58,6 +58,7 @@ nav li {
 #main{
   height: 500px;
   width: 1000px;
+  align-items: center;
   background-image: url("https://cdn.pixabay.com/photo/2018/06/10/17/39/market-3466906_960_720.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -65,11 +66,16 @@ nav li {
 }
 #rectangle{
   height: 50px;
-  width: 350px;
+  width: 500px;
   background-color: grey;
+  opacity: 0.8;
   border-radius: 30px;
+  margin-left: 200px;
 }
  
 #rectangle p{
   text-align: center;
+  color: #191970;
+  font-weight: 800;
+  font-size: xx-large;
 }
