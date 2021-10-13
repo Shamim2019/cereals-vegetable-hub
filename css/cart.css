@@ -1,10 +1,20 @@
 
 
+#colorhead{   
+background-color: rgb(145, 207, 37);
 }
 
+#footer{
+background-color:AFD275;
+position: absolute;
+padding:40px ;
+}
 
-
-
+.topbar{
+text-align: end;
+justify-content: space-evenly;
+padding: 20px ;
+}
 
 
 
