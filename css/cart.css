@@ -14,7 +14,6 @@
 /* @TODOstyleimage */
 .logo img{
 width: 5rem;
-
   min-height: 40px;
 }
 
@@ -35,13 +34,15 @@ width: 5rem;
 }
 .cart-img img{
   width: 5rem;
-  float: left;
+  cursor: pointer;
+  margin-top: -24px;
+  /* float: left; */
    margin: bottom 5rem;
 }
 
 .fruits{
-  background-image: url("./picture/background-image")
-  background-repeat: no-repeat;
+  background-image: url("../pictures/image\ background.jpeg")
+;  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
