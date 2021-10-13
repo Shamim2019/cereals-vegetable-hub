@@ -113,5 +113,9 @@ nav li {
 }
 .icons img {
   height: 50px;
-
+}
+footer {
+display: flex;
+height: 400px;
+background-color:#AFD275 ;
 }
