@@ -41,8 +41,8 @@ width: 5rem;
 }
 
 .fruits{
-  background-image: url("../pictures/image\ background.jpeg")
-;  background-repeat: no-repeat;
+  background-image: url("../pictures/image\ background.jpeg");
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
