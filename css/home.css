@@ -6,13 +6,15 @@
 }
 header{
   background-color:#AFD275 ;
-  height: 170px;
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
 }
-nav img{
-  height: 150px;
-  margin-bottom: 200px;
-  margin-left: 0px;
-
+header img{
+height: 150px;
+position: relative;
+margin-bottom: 50px;
+ 
 
 }
 nav {
@@ -24,14 +26,15 @@ nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 50px 60px 0 60px;
+  padding-left: 700px;
+  padding-top: 50px;
   
 }
 nav li {
   display: inline-block;
   list-style: none;
-  padding-right: 100px;
-  padding-left: 100px;
+  padding-right: 60px;
+  padding-left: 60px;
   font-size: larger;
  }
  li a {
@@ -71,6 +74,7 @@ nav li {
   opacity: 0.8;
   border-radius: 30px;
   margin-left: 200px;
+  padding-bottom: 20px;
 }
  
 #rectangle p{
@@ -79,22 +83,24 @@ nav li {
   font-weight: 800;
   font-size: xx-large;
 }
-#rectangle2 {
+button {
   height: 50px;
   width: 300px;
   background-color:#e47e1b;
   border-radius: 30px;
   margin-left: 200px;
   align-items: center;
-}
-#rectangle2 p{
   color: white;
   text-align: center;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
+  font-size: x-large;
+  font-weight: 600;
+  box-shadow: gray;
+  
 }
 .arrow {
   border: solid white;
-  border-width: 0 3px 3px 0;
+  border-width: 0 4px 4px 0;
   display: inline-block;
   padding: 10px;
 }
@@ -127,21 +133,21 @@ background-color:#AFD275 ;
   font-weight: 900;
   font-size: larger;
 }
-.icons{
+.iconscon{
   margin-left: 200px;
   margin-top: 200px;
+  font-size: xx-large;
   font-weight: 600;
   display: block;
-  justify-content: space-between;
+  color: black;
 
 }
-.icons h2{
-color: #191970;
+.iconscon p {
+  color: #191970;
 }
-.icons p{
-  margin-top: 200px;
+.icons{
+  color: black;
 }
-
-a :hover{
+.icons a:hover{
   color: black;
 }

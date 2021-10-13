@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  background-color: #AFD275;
+}
+
+.logo img{
+  height: 150px;
+  
+}
+nav ul li {
+  float: right;
+  padding: 20px;
+  list-style: none;
+  
+
+}
