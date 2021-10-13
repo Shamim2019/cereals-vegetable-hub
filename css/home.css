@@ -130,10 +130,18 @@ background-color:#AFD275 ;
 .icons{
   margin-left: 200px;
   margin-top: 200px;
-  color: #191970;
   font-weight: 600;
+  display: block;
+  justify-content: space-between;
 
 }
+.icons h2{
+color: #191970;
+}
 .icons p{
-  text-align: inherit;
+  margin-top: 200px;
+}
+
+a :hover{
+  color: black;
 }
