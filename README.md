@@ -1,11 +1,71 @@
-  ### CEREALS-VEGETABLE-HUB
+  # CEREALS AND VEGETABLES HUB
 
-   ## AUTHOR : SHAMIM MALOBA
-   
-   ## DESCRIPTION : This Cereals-vegetable-hub is at the center of a plant-based lifestyle with a short collection of common images to describe the hub.
-   
-   ## LANGUAGES USED : CSS and HTML
-   
-   ## LICENCE : MIT License
+##### GROUP MEMBERS:
+NOBELLA EJIOFOR NYARARI
+SHAMIM MALOBA
+DERICK MOKONGE
+AGNES OTUKOYI
+###
 
-Copyright (c) [2021] [Shamim Maloba,Derick Mukonge,Nobella and Agnes]
+## Table of Content
+
++ [Description](#description)
++ [Installation Requirement](#Installation)
++ [Technology Used](#technology-used)
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#author-Info)
+
+## Description
+<p> This is a website where we sell groceries and fruits. The client basically visits the website and adds items to cart then goes ahead to either process the payment or call an available agent to have their order processed and delivered. They would later geta call from a rider to pick their items.</p>
+
+## Installation
+
+### Requirements
+
+* Either a computer,phone,tablet or an Ipad
+
+* An access to the Internet
+
+### Installation Process
+
+## Technology Used
+* HTML - which was used to build the structure of the pages.
+
+* CSS - which was used to style the pages incuding the left aside navigation bar.
+
+* JAVASCRIPT -which was linked to the cart.
+
+## Reference
+* LMS
+
+## Licence
+
+MIT License
+
+Copyright (c) [2019] [NOBELLA EJIOFOR]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+## Authors Info
+
+GMAIL-nobellanyarari@gmail.com
+
+
