@@ -117,7 +117,7 @@ nav li {
 footer {
 display: flex;
 justify-content: space-between;
-height: 290px;
+height: 320px;
 background-color:#AFD275 ;
 }
 .first img{
@@ -125,4 +125,15 @@ background-color:#AFD275 ;
 }
 .first {
   font-weight: 900;
+  font-size: larger;
+}
+.icons{
+  margin-left: 200px;
+  margin-top: 200px;
+  color: #191970;
+  font-weight: 600;
+
+}
+.icons p{
+  text-align: inherit;
 }
