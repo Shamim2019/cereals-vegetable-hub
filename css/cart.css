@@ -1,24 +1,47 @@
-
-
-#colorhead{   
-background-color: rgb(145, 207, 37);
-}
-
-#footer{
-background-color:AFD275;
-position: absolute;
-padding:40px ;
-}
-
-.topbar{
-text-align: end;
-justify-content: space-evenly;
-padding: 20px ;
+*{
+  padding: 0;
+  margin: o;
+  box-sizing: border-box;
 }
 
 
+.nav {
+  border: radius 10px; ;
+  background-color: #AFD275;
+  font-size: initial;
+}
 
+/* @TODOstyleimage */
+.logo img{
+width: 5rem;
 
+  min-height: 40px;
+}
 
+.nav-links ul li{
+  display:inline;
+}
 
+#nav-link-item {
+  align-items: center;
+  color: inherit;
+  padding: 20px 30px;
+  list-style: none;
+  text-decoration: none;
+  margin-top: 20px;
+}
+.add-desc {
+  /* float: right; */
+}
+.cart-img img{
+  width: 5rem;
+  float: left;
+   margin: bottom 5rem;
+}
 
+.fruits{
+  background-image: url("./picture/background-image")
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
