@@ -4,13 +4,13 @@
   font-family: 'Scheherazade New', serif;
   box-sizing: border-box;
 }
-header{
+.header{
   background-color:#AFD275 ;
   height: 120px;
   display: flex;
   justify-content: space-between;
 }
-header img{
+.header img{
 height: 150px;
 position: relative;
 margin-bottom: 50px;

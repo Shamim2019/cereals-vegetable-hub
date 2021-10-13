@@ -4,24 +4,47 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Linking the style sheet -->
   <link rel="stylesheet" type ="text/css" href="css/home.css">
+  <!-- linking the icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Linking the bootstrap for the corsel -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- Linking the google fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap" rel="stylesheet">
   <title>Home-page</title>
 </head>
+
 <body>
-  <header>
-    <img src="./farmerslogo-removebg-preview.png" alt="logo">
-   <nav>
+  <!-- Container for the header -->
+  <container>
+    <!-- Section for the header -->
+    <section class="header"> 
+      <!-- Creating a div of one row with 2 columns -->
+    <div class="row">
+      <div class ="col-md-4 logo">
+        <img src="./farmerslogo-removebg-preview.png" alt="logo">
+      </div>
+      <div class="col-md-8"></div>
+      <nav>
    
-    <ul>
-     <li><a href="#Home"><strong>Home</strong></a></li>
-     <li><a href ="#Aboutus "><strong>About Us</strong></a></li>
-     <li><a href ="#Products "><strong>Products</strong></a></li>
-     <li><a href ="#Contacts "><strong>Contacts</strong></a></li>
-    </ul>
-   </nav>
-  </header>
+        <ul>
+         <li><a href="#Home"><strong>Home</strong></a></li>
+         <li><a href ="#Aboutus "><strong>About Us</strong></a></li>
+         <li><a href ="#Products "><strong>Products</strong></a></li>
+         <li><a href ="#Contacts "><strong>Contacts</strong></a></li>
+        </ul>
+       </nav>
+
+    </div>
+    </section>
+  </container>
+
+
+
+
+
+
   <div class= "mybody" id="Home">
     <div id="text">
     <p>We offer quality farm produce at the lowest price in the market. Offering timely deliveries is our expertise.</p>
@@ -36,7 +59,7 @@
       </div>  
      </div>
   </div>
-</body>
+
 <footer>
   <div class="first">
     <img src="./farmerslogo-removebg-preview.png" alt="logo">
@@ -59,4 +82,8 @@
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8177074975583!2d36.81982981486713!3d-1.2832260990640416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10d42c1ed121%3A0xe29eb9dee3e08817!2sNairobi%20CBD!5e0!3m2!1sen!2ske!4v1634122190378!5m2!1sen!2ske" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 </footer>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
 </html>
