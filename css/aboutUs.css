@@ -1,5 +1,6 @@
 body {
-    height: 100vh;
+    height: 90vh;
+    
 }
 header {
     display: flex;
@@ -7,12 +8,22 @@ header {
     justify-content: space-between;
     font-size: 2.1rem;
     align-items: center;
+    height: 120px;
     
+}
+
+.menu a{
+     padding: 30px;
+       
 
 }
-/* .aboutUs {
-    font-size: 4.5rem;
-} */
+
+header img {
+    height: 150px;
+    padding: 30px;
+    
+}
+
 .up0 {
     background: #E47E1B;
     padding: 60px;
@@ -26,15 +37,21 @@ header {
 
 .up img  {
     height: 400px;
-    /* padding-left: 60px; */
+    
 }
 
 .history {
     font-size: 2.4rem;
-    text-align: right;
+    text-align: center;
     
 }
-
+.history h1 {
+    color: white;
+}
+.history span{
+    font-size: 3.1rem;
+    color: ivory;
+}
 .middle img{
     width: 90vw;
     height: 80vh;
@@ -71,10 +88,41 @@ header {
 
 footer {
     background: #AFD275;
+    
+}
+
+.foot0 {
+    display: flex;
+    justify-content: space-between;
+   
+    padding-right: 30px;
 }
 .foot {
-    display: flex;
+    display: block;
     justify-content: space-between;
 }
 
-.social
+.foot > ul > li{
+    list-style: none;
+    padding: 5px;
+    font-weight: 900;
+}
+.menu {
+
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+#log {
+    height: 160px;
+}
+
+footer p{
+    text-align: center;
+    font-size: 2.1rem;
+}
+
+.socialSites img{
+    height: 100px;
+    align-items: baseline;
+}
