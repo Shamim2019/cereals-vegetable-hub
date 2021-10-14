@@ -1,0 +1,80 @@
+body {
+  height: 100vh;
+}
+header {
+  display: flex;
+  background: #AFD275;
+  justify-content: space-between;
+  font-size: 2.1rem;
+  align-items: center;
+  
+
+}
+/* .aboutUs {
+  font-size: 4.5rem;
+} */
+.up0 {
+  background: #E47E1B;
+  padding: 60px;
+}
+.up {
+  
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.up img  {
+  height: 400px;
+  /* padding-left: 60px; */
+}
+
+.history {
+  font-size: 2.4rem;
+  text-align: right;
+  
+}
+
+.middle img{
+  width: 90vw;
+  height: 80vh;
+}
+
+.end h2 {
+  font-size: 2.7rem;
+  color: white;
+  text-align: center;
+}
+.services {
+  display: flex;
+  justify-content: space-between;
+}
+
+.services img {
+  width: 400px;
+}
+
+.transport p{
+  text-align: center;
+  font-size: 2.0rem;
+}
+
+.customerService p{
+  text-align: center;
+  font-size: 2.0rem;
+}
+
+.produce p{
+  text-align: center;
+  font-size: 2.0rem;
+}
+
+footer {
+  background: #AFD275;
+}
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social
