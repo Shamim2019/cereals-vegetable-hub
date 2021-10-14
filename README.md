@@ -1,6 +1,6 @@
   ### CEREALS-VEGETABLE-HUB
 
-   ## AUTHOR : SHAMIM MALOBA
+   ## AUTHORS : Shamim, Agnes, Nobella, Derrick.
    
    ## DESCRIPTION : This Cereals-vegetable-hub is at the center of a plant-based lifestyle with a short collection of common images to describe the hub.
    
