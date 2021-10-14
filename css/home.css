@@ -34,19 +34,20 @@ nav ul li a {
 }
 .rectangle h1{
   text-align: center;
+  padding-top: 10px;
 
 }
 .rectangle{
   margin-top: 50px;
   border-radius: 50px;
   text-align: center;
-  height: 70px;
+  height: 80px;
   width: 200px;
   background-color: #AFD275;
-  
+
 }
 .text p{
-  font-size: large;
+  font-size: x-large;
 }
 .footer{
   background-color: #AFD275;
