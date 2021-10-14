@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: o;
+  box-sizing: border-box;
+}
+
+
+.nav {
+  border: radius 10px; ;
+  background-color: #AFD275;
+  font-size: initial;
+}
+
+/* @TODOstyleimage */
+.logo img{
+width: 5rem;
+  min-height: 40px;
+}
+
+.nav-links ul li{
+  display:inline;
+}
+
+#nav-link-item {
+  align-items: center;
+  color: inherit;
+  padding: 20px 30px;
+  list-style: none;
+  text-decoration: none;
+  margin-top: 20px;
+}
+.add-desc {
+  /* float: right; */
+}
+.cart-img img{
+  width: 5rem;
+  cursor: pointer;
+  margin-top: -24px;
+  /* float: left; */
+   margin: bottom 5rem;
+}
+
+.fruits{
+  background-image: url("../pictures/image\ background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
