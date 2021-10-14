@@ -1,0 +1,84 @@
+#image1{
+    float: left;
+}
+body{
+    background-color: #AFD275;
+    
+}
+nav img {
+    height: 150px;
+    width: 150px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: gray;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 2.7rem;
+}
+/* #value{text-align: center;} */
+#any p{
+    text-align: center;
+    background-color:#E47E1B;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 2.1rem;
+    border-radius: 30px;
+    /* border-radius: 5%; */
+}
+input[type=Submit]{
+
+    background-color:  #E47E1B;
+    padding: 15px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    /* border-radius: 40%; */
+}
+
+#me {
+    margin-left: 600px;
+    
+}
+/* .image1 {
+    background-image: url(images/support.team.jpeg) ;
+    height: 60vh;
+    z-index: -1;
+} */
+
+.image1 p{
+    text-align: center;
+    font-size: 1.1rem;
+    color: white;
+}
+body{
+    background-image: url(./images/cover2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.foot{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.copyright{
+    text-align: center;
+}.Smedia{
+    margin-top: 250px;
+}
+#imglogo{
+    margin-left: -60px;
+}
+.navbar li{
+    list-style: none;
+}
+.image1 h1{
+color: white;
+}
+.offers ul li{
+    color: white;
+}.image1
